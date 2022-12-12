@@ -26,3 +26,5 @@ print(x,y)
 #If values are same for all the variables
 r=t=u=200
 print(r,t,u)
+
+# ksvsmvn
