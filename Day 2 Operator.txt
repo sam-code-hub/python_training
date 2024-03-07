@@ -1,0 +1,23 @@
+Day 2: 
+-------
+
+Delete the variables
+
+Operators - a symbol which will perform an 
+operation between 2 or more cariables
+
+a= 100
+b=200
+
+print(a+b)
+
+1) Artihmatic
+2) Relational 
+3) Logical 
+
+a       b     a and b    a or b   not a
+---------------------------------------
+TRUE   TRUE     TRUE     TRUE     FALSE
+TRUE   FALSE    FALSE    TRUE
+FALSE  TRUE     FALSE    TRUE     TRUE
+FALSE  FALSE    FALSE    FALSE
